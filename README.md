@@ -1,6 +1,24 @@
 # Agom Markdown2HTML
 
-> 🤖 把 AI 生成的 Markdown 和 Mermaid，几秒变成能发出去的 HTML / PDF。
+> 🤖 AI 帮你写 Markdown，Mermaid 帮你画图，Agom 帮你一键变成能分享的 HTML / PDF。
+
+## 🌍 在线直接用
+
+**👉 [md.uncleliou.com](http://md.uncleliou.com/)**
+
+把 Markdown 和 Mermaid 变成可分享页面，就是这么直接。
+
+打开就能用，不需要注册，不需要登录，不需要折腾部署。
+
+适合：
+
+- 想把 AI 生成内容快速发给同事、客户、朋友的人
+- 想把 Markdown 文档一键变成更体面的 HTML / PDF 的人
+- 想找一个无广告、无隐私收集、轻量顺手工具的人
+
+✨ 无广告  
+🔒 无隐私收集  
+⚡ 到手即用
 
 **⭐ 如果这个项目刚好帮你省下了时间，欢迎先点一个 Star。**
 
@@ -20,16 +38,6 @@
 这个项目解决的是更实际的一步：
 
 **怎么把内容优雅地发出去。**
-
-## 🌍 在线直接用
-
-**[md.uncleliou.com](http://md.uncleliou.com/)**
-
-打开就能用，不需要注册，不需要登录。
-
-✨ 无广告  
-🔒 不储存用户信息  
-⚡ 到手即用
 
 ## 为什么这个项目容易被喜欢
 
